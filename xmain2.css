@@ -1,0 +1,72 @@
+body{
+
+ color: white;
+  
+
+
+}
+
+
+
+
+a: {
+text-decoration: none;
+color: black;
+}
+
+a:hover {
+background-color: #ffc7f4;
+text-decoration: none;
+color: blue;
+}
+
+a:visited{
+text-decoration: none;
+-webkit-text-stroke: 0.7px #8a4a2f;
+    -webkit-text-fill-color: #ffa8dc;
+}
+
+
+.text2 {
+  font-family: Arial;
+   position: absolute;
+  top: 565px;
+  left: 15px;
+  font-size: 12px;
+  font-family: "apple chancery";
+    -webkit-text-stroke: 0px black;
+    -webkit-text-fill-color: black;
+}
+
+
+.text3 {
+
+    font-family: Arial;
+    position: absolute;
+    top: 160px;
+    left: 15px;
+    font-size: 37px;
+    font-family: "arial";
+    -webkit-text-stroke: 0.7px #8a4a2f;
+    -webkit-text-fill-color: #ffa8dc;
+ 
+}
+
+
+
+.special-img3:hover {
+background-color: #ffc7f4;
+text-decoration: none;
+color: blue;
+}
+
+
+
+.special-img3 {
+    width: 135px;
+    height: auto;
+    position: absolute;
+    top: 15px;
+    left: 5px;
+}
+

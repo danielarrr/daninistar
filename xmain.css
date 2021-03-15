@@ -1,0 +1,173 @@
+body{
+
+ background-color: white;
+	
+
+
+}
+
+.text {
+	font-family: Arial;
+	position: absolute;
+    top: 209px;
+    left: 15px;
+    font-size: 37px;
+    font-family: "apple chancery";
+    -webkit-text-stroke: 0.7px #8a4a2f;
+    -webkit-text-fill-color: #ffa8dc;
+}
+
+
+.text1 {
+  font-family: Arial;
+    position: absolute;
+    top: 254px;
+    left: 15px;
+    font-size: 47px;
+    font-family: "times new roman";
+    -webkit-text-stroke: 0.7px #8a4a2f;
+    -webkit-text-fill-color: #ffa8dc;
+}
+
+a: {
+text-decoration: none;
+color: black;
+}
+
+a:hover {
+background-color: #ffc7f4;
+text-decoration: none;
+color: blue;
+}
+
+
+a:visited{
+text-decoration: none;
+-webkit-text-stroke: 0.7px #8a4a2f;
+    -webkit-text-fill-color: #ffa8dc;
+}
+
+
+.text2 {
+  font-family: Arial;
+   position: absolute;
+  top: 665px;
+  left: 15px;
+  font-size: 12px;
+  font-family: "apple chancery";
+    -webkit-text-stroke: 0px black;
+    -webkit-text-fill-color: black;
+}
+
+
+.text3 {
+
+    font-family: Arial;
+    position: absolute;
+    top: 405px;
+    left: 15px;
+    font-size: 27px;
+    font-family: "arial";
+    -webkit-text-stroke: 0.7px #8a4a2f;
+    -webkit-text-fill-color: #ffa8dc;
+ 
+}
+
+.text4 {
+
+    font-family: apple chancery;
+    position: absolute;
+    top: 399px;
+    left: 15px;
+    font-size: 37px;
+    font-family: "arial";
+    -webkit-text-stroke: 0.7px #8a4a2f;
+    -webkit-text-fill-color: #ffa8dc;
+ 
+}
+
+
+
+img {
+ /*height: 500px;*/
+  max-width: 9000%;
+  max-height: 7000%
+}
+
+
+.special-img3 {  
+  max-width: 600px;
+  position: absolute;
+     top: 33px;
+    left: 200px;
+  }
+
+.special-img {
+  max-width: 60px;
+  position: relative;
+  top: 100px;
+  left: 600px;
+  
+}
+
+
+
+
+
+.special-img2 {
+    width: 255px;
+    height: auto;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+     border-color: #8a4a2f;
+}
+
+
+.text5 {
+
+    position: absolute;
+  top: 273px;
+    left: 17px;
+    font-size: 27px;
+    font-family: "Consolas";
+    -webkit-text-stroke: 0.7px #8a4a2f;
+    -webkit-text-fill-color: #ffa8dc;
+ 
+}
+
+
+
+
+.text6 {
+
+    position: absolute;
+    top: 351px;
+    left: 15px;
+    font-size: 27px;
+    font-family: "apple chancery";
+    -webkit-text-stroke: 0.7px #8a4a2f;
+    -webkit-text-fill-color: #ffa8dc;
+ 
+}
+
+.text7 {
+
+    position: absolute;
+    top: 313px;
+    left: 15px;
+    font-size: 27px;
+    font-family: "arial";
+    -webkit-text-stroke: 0.7px #8a4a2f;
+    -webkit-text-fill-color: #ffa8dc;
+ 
+}
+
+
+}
+
+
+
+
+
+
