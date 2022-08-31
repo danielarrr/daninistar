@@ -1,0 +1,377 @@
+
+img{
+  float:left;
+  height:200px;
+  object-fit: cover;
+}
+
+button{
+  color:blue;
+  margin-top: -5px;
+  background-color: white;
+  border:pink;
+}
+
+
+
+body{
+
+  background-color: #fffff7;
+
+}
+
+.special-img3 {
+    width: 135px;
+    height: auto;
+    position: absolute;
+    top: 15px;
+    left: 5px;
+}
+
+
+
+.special-img4 {
+    width: 235px;
+    height: auto;
+    position: absolute;
+    top: 235px;
+    left: 5px;
+}
+
+.email {
+  font-family: Arial;
+    position: absolute;
+    top: 247px;
+    left: 15px;
+    font-size: 67px;
+    font-family: "times new roman";
+    -webkit-text-stroke: 1px #8a4a2f;
+    -webkit-text-fill-color: #ffa8dc;
+}
+
+.ig {
+
+color: yellow;
+}
+
+pre {
+    font-family: times new roman ;
+    line-height: 64%;
+    font-weight: bold;
+}
+
+a: {
+text-decoration: none;
+color: black;
+}
+
+a:hover {
+background-color: #ffa8dc;
+text-decoration: none;
+-webkit-text-fill-color: blue;
+color: blue;
+}
+
+
+a:visited{
+    text-decoration: none;
+    -webkit-text-fill-color: #1bc44b;
+}
+
+
+/*-webkit-text-stroke: 0.7px yellow;
+    -webkit-text-fill-color: #ff0000;
+    text-decoration: none;
+*/
+
+.text3 {
+
+    font-family: Arial;
+    position: absolute;
+    top: 405px;
+    left: 15px;
+    font-size: 27px;
+    font-family: "arial";
+    -webkit-text-stroke: 0.7px #8a4a2f;
+    -webkit-text-fill-color: #ffa8dc;
+ 
+}
+
+.special-img3 {
+    width: 77px;
+    height: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    border-color: #8a4a2f;
+    margin-left: 43.5px;
+    margin-top: 124.5px;
+}
+
+
+.special-img2 {
+     width: 576px;
+    height: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+     border-color: #8a4a2f;
+      margin-left: -286.5px;
+     margin-top:  -267.5px;
+}
+
+.special-img1 {
+    width: 83px;
+    height: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    border-color: #8a4a2f;
+    margin-left: -51.5px;
+    margin-top: -199.5px;
+    }
+
+
+.text5 {
+height: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -210.5px;
+    margin-top: 17.5px;
+    font-size: 25px;
+    font-family: "arial narrow";
+    -webkit-text-fill-color: black;
+    text-decoration: none;
+
+ 
+}
+
+.text6 {
+    height: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -197.5px;
+    margin-top: -121.5px;
+    font-size: 25px;
+    font-family: "arial narrow";
+    -webkit-text-fill-color: black;
+    text-decoration: none;
+ 
+}
+
+.text7 {
+
+     height: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: 130.5px;
+    margin-top: -0.5px;
+    font-size: 25px;
+    font-family: "arial narrow";
+    -webkit-text-fill-color: black;
+    text-decoration: none;
+
+ 
+}
+
+
+.text8 {
+    height: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: 132.5px;
+    margin-top: -139.5px;
+    font-size: 25px;
+    font-family: "arial narrow";
+    -webkit-text-fill-color: black;
+    text-decoration: none;
+
+}
+
+.text9 {
+height: auto;
+background-color: #ffa8dc;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -178.5px;
+    margin-top: 167.5px;
+    font-size: 25px;
+    font-family: "arial narrow";
+    color:black;
+    -webkit-text-fill-color: black;
+    text-decoration: none;   
+
+}
+
+.text10 {
+    height: auto;
+    background-color: #034efc;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -169.5px;
+    margin-top: -76.5px;
+    font-size: 22px;
+    font-family: "times new roman";
+    color: black;
+    -webkit-text-fill-color: yellow;
+    text-decoration: none;
+}
+
+.text11 {
+ height: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -102.5px;
+    margin-top: 102.5px;
+    font-size: 18px;
+    font-family: "times new roman";
+    color: black;
+    -webkit-text-fill-color: black;
+    text-decoration: none;
+}
+
+.text12 {
+height: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -115.5px;
+    margin-top: 124.5px;
+    font-size: 20px;
+    font-family: "times new roman";
+    color: black;
+    -webkit-text-fill-color: yellow;
+    text-decoration: none;
+}
+
+.text13 {
+height: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -186.5px;
+    margin-top: 112.5px;
+    font-size: 20px;
+    font-family: "times new roman";
+    color: black;
+    -webkit-text-fill-color: blue;
+    text-decoration: none;
+
+
+}
+
+
+
+.img1 {
+    width: 244px;
+    height: auto;
+    position: fixed;
+    left: 271px;
+    top: 47px;
+  }
+
+.img2 {
+    width: 251px;
+    height: auto;
+    position: fixed;
+    left: 10px;
+    top: 52px;
+  }
+
+  .img3 {
+     width: 162px;
+    height: auto;
+    position: fixed;
+    left: 525px;
+    top: 52px;
+  }
+
+
+  .img4 {
+     width: 219px;
+    height: auto;
+    position: fixed;
+    left: 696px;
+    top: 46px;
+  }
+
+  .img5 {
+    width: 246px;
+    height: auto;
+    position: fixed;
+    left: 921px;
+    top: 49px;
+  }
+
+
+.text14 {
+    height: auto;
+    position: fixed;
+    top: 375px;
+    left: 273px;
+    font-size: 17px;
+    font-family: "Arial Narrow";
+    color: black;
+    -webkit-text-fill-color: black;
+    text-decoration: none;
+}
+
+.text15 {
+    height: auto;
+    position: fixed;
+    top: 375px;
+    left: 13px;
+    font-size: 17px;
+    font-family: "Arial narrow";
+    color: black;
+    -webkit-text-fill-color: black;
+    text-decoration: none;
+}
+
+.text16 {
+    height: auto;
+    position: fixed;
+    top: 375px;
+    left: 527px;
+    font-size: 17px;
+    font-family: "Arial Narrow";
+    color: black;
+    -webkit-text-fill-color: black;
+    text-decoration: none;
+}
+
+.text17 {
+   height: auto;
+    position: fixed;
+    top: 375px;
+    left: 702px;
+    font-size: 17px;
+    font-family: "Arial Narrow";
+    color: black;
+    -webkit-text-fill-color: black;
+    text-decoration: none;
+    }
+
+.text18 {
+   height: auto;
+    position: fixed;
+    top: 375px;
+    left: 926px;
+    font-size: 17px;
+    font-family: "Arial Narrow";
+    color: black;
+    -webkit-text-fill-color: black;
+    text-decoration: none;
+    }
+
+
+#double{
+  height: 400px;
+}
