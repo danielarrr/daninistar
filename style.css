@@ -273,7 +273,7 @@ height: auto;
     width: 244px;
     height: auto;
     position: fixed;
-    left: 271px;
+    left: 536px;
     top: 47px;
   }
 
@@ -281,7 +281,7 @@ height: auto;
     width: 251px;
     height: auto;
     position: fixed;
-    left: 10px;
+    left: 269px;
     top: 52px;
   }
 
@@ -289,8 +289,16 @@ height: auto;
      width: 162px;
     height: auto;
     position: fixed;
-    left: 525px;
-    top: 52px;
+    left: 296px;
+    top: 433px;
+  }
+
+    .img6 {
+     width: 285px;
+    height: auto;
+    position: fixed;
+    left: -8px;
+    top: 36px;
   }
 
 
@@ -298,16 +306,16 @@ height: auto;
      width: 219px;
     height: auto;
     position: fixed;
-    left: 696px;
-    top: 46px;
+    left: 10px;
+    top: 428px;
   }
 
   .img5 {
-    width: 246px;
+   width: 248px;
     height: auto;
     position: fixed;
-    left: 921px;
-    top: 49px;
+    left: 530px;
+    top: 428px;
   }
 
 
@@ -338,8 +346,8 @@ height: auto;
 .text16 {
     height: auto;
     position: fixed;
-    top: 375px;
-    left: 527px;
+    top: 760px;
+    left: 272px;
     font-size: 17px;
     font-family: "Arial Narrow";
     color: black;
@@ -350,8 +358,8 @@ height: auto;
 .text17 {
    height: auto;
     position: fixed;
-    top: 375px;
-    left: 702px;
+    top: 760px;
+    left: 13px;
     font-size: 17px;
     font-family: "Arial Narrow";
     color: black;
@@ -362,14 +370,26 @@ height: auto;
 .text18 {
    height: auto;
     position: fixed;
-    top: 375px;
-    left: 926px;
+    top: 760px;
+    left: 534px;
     font-size: 17px;
     font-family: "Arial Narrow";
     color: black;
     -webkit-text-fill-color: black;
     text-decoration: none;
     }
+
+    .text19 {
+    height: auto;
+    position: fixed;
+    top: 375px;
+    left: 527px;
+    font-size: 17px;
+    font-family: "Arial Narrow";
+    color: black;
+    -webkit-text-fill-color: black;
+    text-decoration: none;
+}
 
 
 #double{
