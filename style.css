@@ -20,6 +20,106 @@ body{
 
 }
 
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+.home
+{
+      margin-bottom: -36px;
+      font-size: 13px;
+}
+
+
+
+.color {
+  background-color: white;
+}
+
+.column {
+  max-width: 650px;
+  margin-left: 40px;
+}
+
+.logo-container {
+  display: inline-block;
+  position: relative;
+  top: 16px;
+}
+
+.logo1 {
+  width: 128px;
+  height: auto;
+}
+
+.hover-trigger {
+  color: blue;
+  cursor: pointer;
+}
+
+.hover-trigger:hover {
+    background-color: yellow;
+  color: blue;
+  cursor: pointer;
+}
+#image-container {
+  position: absolute;
+  top: 0;
+  right: 100%;
+  transform: translateX(10px);
+}
+
+#hover-image {
+  display: none;
+  width: 200px;
+  height: auto;
+}
+
+
+
+
+.interview {
+height: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -178px;
+    margin-top: 255.5px;
+    font-size: 20px;
+    font-family: "georgia";
+    text-decoration: none;
+}
+
+.instruct {
+
+    position: absolute;
+    top: 8.5px;
+    right: 423px;
+    font-size: 10px;
+    font-family: "arial";
+}
+
+
+
+
+
+
+
+
+
+
+
+
 .special-img3 {
     width: 135px;
     height: auto;
@@ -75,7 +175,10 @@ color: blue;
 
 a:visited{
     text-decoration: none;
-    -webkit-text-fill-color: #1bc44b;
+    -webkit-text-fill-color: black;
+}
+.text9:hover{
+    background-color: yellow;
 }
 
 
