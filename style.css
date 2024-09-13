@@ -46,7 +46,7 @@ background: url('menu/1.png') no-repeat;
 */
 
 #art:hover {
-background: url('menu/1C.png') no-repeat;
+background: url('menu/1c.png') no-repeat;
 }
 /*
 #books {
@@ -55,7 +55,7 @@ background: url('menu/2.png') no-repeat;
 */
 
 #books:hover {
-background: url('menu/2C.png') no-repeat;
+background: url('menu/2c.png') no-repeat;
 }
 
 /*
@@ -65,7 +65,7 @@ background: url('menu/3.png') no-repeat;
 */
 
 #sso:hover {
-background: url('menu/3C.png') no-repeat;
+background: url('menu/3c.png') no-repeat;
 }
 
 
@@ -75,7 +75,7 @@ background: url('menu/4.png') no-repeat;
 }
 */
 #video:hover {
-background: url('menu/4C.png') no-repeat;
+background: url('menu/4c.png') no-repeat;
 }
 
 
